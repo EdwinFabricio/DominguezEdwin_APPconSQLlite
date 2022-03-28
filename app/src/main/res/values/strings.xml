@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP_SQLite</string>
+    <string name="Guardar">Guardar</string>
+    <string name="ID">Crear BD</string>
+    <string name="Id">ID</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Correo">Correo</string>
+    <string name="telefono">Telefono</string>
+</resources>
